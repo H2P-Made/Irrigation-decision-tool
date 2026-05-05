@@ -1,9 +1,9 @@
-🌾 Farm & Irrigation Tools
+Farm & Irrigation Tools
 A collection of practical agricultural software tools built with HTML, C++, and Java to help farmers and agronomists manage crop water needs, irrigation flow rates, and farm data.
 
-📦 Projects
+Projects
 
-1. 🌐 Crop Water Calculator (HTML/CSS/JS)
+1.Crop Water Calculator (HTML/CSS/JS)
 An interactive browser-based calculator that estimates daily and seasonal irrigation water requirements for common crops.
 Features:
 Select from 8 crop types (Wheat, Rice, Maize, Cotton, Sugarcane, etc.)
@@ -15,7 +15,7 @@ Inputs for ET₀, effective rainfall, and soil type
 Outputs: Crop coefficient (Kc), ETc, net water need, daily volume (m³), seasonal total, and irrigation frequency
 
 
-2. ⚙️ Irrigation Flow Rate Calculator (C++)
+2.Irrigation Flow Rate Calculator (C++)
 A console application that calculates irrigation flow rates using standard hydraulic engineering formulas.
 
 Calculation Modules:
@@ -25,17 +25,17 @@ Calculation Modules:
 | Drip Emitter Discharge | q = Kd × H^x |
 | Field Water Demand | V = (ETc - Pe) × A / Ea |
 
-3. ☕ Farm Data Input App (Java)
+3.Farm Data Input App (Java)
 A full-featured console application for recording, managing, and exporting farm field data.
 
 Features:
-➕ Add crop records (crop, field, area, soil, irrigation, fertilizer)
+Add crop records (crop, field, area, soil, irrigation, fertilizer)
 
 📄 View all records in a formatted table
 
 🔍 Search by crop or field name
 
-📊 Farm summary with totals, averages & crop breakdown
+Farm summary with totals, averages & crop breakdown
 
 ✏️ Edit existing records
 
@@ -45,7 +45,8 @@ Features:
 ├── crop_water_calculator.html   # Web-based crop water calculator
 ├── irrigation_flow_rate.cpp     # C++ irrigation flow calculator
 ├── FarmDataApp.java             # Java farm data input app
-└── README.md🌍 
+└── README.md
+
 Use Cases
 Small and medium-scale farmers estimating daily water needs
 Agronomists calculating irrigation system flow rates
