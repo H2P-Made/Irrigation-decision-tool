@@ -41,7 +41,7 @@ Features:
 
 💾 Export to CSV with auto-dated 
 
-filename📁 File Structurefarm-irrigation-tools/
+📁 File Structurefarm-irrigation-tools/
 ├── crop_water_calculator.html   # Web-based crop water calculator
 ├── irrigation_flow_rate.cpp     # C++ irrigation flow calculator
 ├── FarmDataApp.java             # Java farm data input app
@@ -53,6 +53,7 @@ Farm managers recording and tracking field data across seasons
 
 👤 Author
 [Himanshu Prasad Hankara]
-
+LinkedIn 
 https://www.linkedin.com/in/himanshu-prasad-hankara-52a237384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
- • GitHub
+
+GitHub
